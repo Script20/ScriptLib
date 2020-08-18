@@ -4,7 +4,7 @@ This is the public repo for my mod.
 
 [![Discord Server](https://discordapp.com/api/guilds/354003394718859275/embed.png?style=banner2)](discord.gg/D2YJFBm)
 
-# [Factorio Mod Portal](https://mods.factorio.com/mod/Script_Config_Start)
+# [Factorio Mod Portal](https://mods.factorio.com/mod/ScriptLib)
 Use the link above for installation.
 
 ## Build Status / Info
