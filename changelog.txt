@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 16. 8. 2020.
+  Changes:
+    - Updated to 1.0.
+    - Added "modlist" command to generate a file with all ACTIVE mods.   
+  bugfix:
+    - Fixed formatting so mods are more easier to read.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 15. 8. 2020.
+  Changes:
+    - Initial mod.
